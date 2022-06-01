@@ -717,7 +717,8 @@ margin-top: 160px;
     flex-wrap: wrap;
     }
   .product-detail-container .product-detail-image{
-    width: 350px;
+    width: 100%;
+    max-width: 350px;
     height: 350px;
   }
   .cart-container{
